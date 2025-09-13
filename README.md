@@ -1,15 +1,15 @@
-# Breast-Cancer-ML-Classifier-Explorer
+ Breast-Cancer-ML-Classifier-Explorer
 An interactive machine learning web app that uses the Breast Cancer Wisconsin dataset to explore, preprocess, reduce dimensionality, and classify tumor samples.
 
 README.md for your Breast Cancer ML Classifier & Explorer app:
 
 markdown
-# 🩺 Breast Cancer ML Classifier & Explorer
+🩺 Breast Cancer ML Classifier & Explorer
 
-An interactive machine learning web app built with **Streamlit** that uses the **Breast Cancer Wisconsin dataset** to explore, preprocess, reduce dimensionality, and classify tumor samples.
+An interactive machine learning web app built with Streamlit that uses the Breast Cancer Wisconsin dataset to explore, preprocess, reduce dimensionality, and classify tumor samples.
 
-# 🔍 Overview
-This project demonstrates how machine learning can assist in **early breast cancer diagnosis**.  
+🔍 Overview
+This project demonstrates how machine learning can assist in early breast cancer diagnosis.  
 It allows users to:
 - Preview and clean the dataset  
 - Select features and scale them  
@@ -25,7 +25,7 @@ It allows users to:
 
 ---
 
-#🚀 Installation & Setup
+🚀 Installation & Setup
 
 1. Clone the repository
    ```bash
@@ -55,7 +55,7 @@ It allows users to:
 
 ---
 
-# 📂 Project Structure
+ 📂 Project Structure
 
 ```
 📁 breast-cancer-ml-explorer
@@ -66,18 +66,14 @@ It allows users to:
 
 ---
 
-# 📊 Results
+ 📊 Results
 
 * Visualizes PCA (2D projection of features)
 * Compares classifiers with ROC & AUC
 * Generates classification reports
 
-Example screenshot:
-*(Insert your Streamlit app screenshot here)*
 
----
-
-# 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 * Python 3.8+
 * Streamlit
@@ -87,16 +83,15 @@ Example screenshot:
 
 ---
 
-# 🎯 Use Case
+ 🎯 Use Case
 
-This app is designed for **students, data science beginners, and ML enthusiasts** who want to:
+This app is designed for students, data science beginners, and ML enthusiasts who want to:
 
 * Learn end-to-end ML workflow
 * Experiment with feature selection & PCA
 * Compare different classifiers in real-time
 
-
-# 👨‍💻 Author
+ 👨‍💻 Author
 
 Ravikiran Reddy Karnati
 (emailto:ravikiranreddykarnati630@gmail.com)
